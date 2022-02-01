@@ -6,3 +6,17 @@ const sum = num1 + num2;
 
 
 console.log('The sum of ' + num1 + ' and ' + num2 + ' is: ' + sum);
+
+
+
+const  x = 5;
+const  y = 3;
+
+
+
+const sub = x - y;
+
+
+console.log('The sub of ' + x + ' and ' +  y + ' is: ' + sub);
+
+       
